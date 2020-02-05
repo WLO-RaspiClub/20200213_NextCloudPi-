@@ -16,8 +16,8 @@ NextCloudPi https://ownyourbits.com/nextcloudpi/
 
 なお、NextCloudPiを導入したRaspberry Piは、常時起動してサーバとして活用することになります。持ち運んで使うなど、他の用途と共有するのは難しくなると思いますので、ハンズオンでインストールしたい方は、今回用に新しいmicroSDにRaspbianを導入したものをご準備いただくのがよろしいかと思います。
 
-会場でハンズオンに参加していただくためには、
-・GUI環境にアクセス可能でWiFi接続できるRaspberry Pi (3B/3B+/3A/4B)<br>
+会場でハンズオンに参加していただくためには、<br>
+ GUI環境にアクセス可能でWiFi接続できるRaspberry Pi (3B/3B+/3A/4B)<br>
 　（ZeroW/ZeroWHでも参加できますが、GUIが重くてブラウザによる体験を実施できないかもしれません）<br>
 が必要ですので、あらかじめご準備ください。<br>
 
